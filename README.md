@@ -103,15 +103,15 @@ PORT=4000
 
 MONGODB_URI=your_mongodb_connection_string
 
-JWT_SECRET=your_jwt_secret
+JWT_SECRET=sruthi
 
-ADMIN_EMAIL=your_admin_email
+ADMIN_EMAIL=admin@example.com
 
-ADMIN_PASSWORD=your_admin_password
+ADMIN_PASSWORD=sruthi5678
 
 CLOUDINARY_NAME=your_cloudinary_name
 
-CLOUDINARY_API_KEY=your_cloudinary_api_key
+CLOUDINARY_API_KEY=998634514425239
 
 CLOUDINARY_SECRET_KEY=your_cloudinary_secret_key
 ```
